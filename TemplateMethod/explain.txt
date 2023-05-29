@@ -1,0 +1,6 @@
+The Template Method design pattern defines 
+the skeleton of an algorithm in a base class and 
+allows subclasses to provide specific implementations 
+for certain steps of the algorithm. It enables code reuse and 
+promotes consistent behavior while allowing flexibility 
+in certain parts of the algorithm.
